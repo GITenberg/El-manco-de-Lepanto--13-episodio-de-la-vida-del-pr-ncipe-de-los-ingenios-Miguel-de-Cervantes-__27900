@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32605
     wikipedia: http://es.wikipedia.org/wiki/Manuel_Fern%C3%A1ndez_y_Gonz%C3%A1lez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27900#El-manco-de-Lepanto--13-episodio-de-la-vida-del-pr-ncipe-de-los-ingenios-Miguel-de-Cervantes-_
 gutenberg_issued: '2009-01-26'
 gutenberg_type: Text
 identifiers:
